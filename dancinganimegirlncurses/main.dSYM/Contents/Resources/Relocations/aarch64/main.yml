@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gregoryjabido/Desktop/workspaceC/dancinganimegirlncurses/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _displayFrame, symObjAddr: 0x0, symBinAddr: 0x100003B50, symSize: 0x11C }
+  - { offsetInCU: 0x49, offset: 0x49, size: 0x8, addend: 0x0, symName: _displayFrame, symObjAddr: 0x0, symBinAddr: 0x100003B50, symSize: 0x11C }
+  - { offsetInCU: 0x97, offset: 0x97, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x11C, symBinAddr: 0x100003C6C, symSize: 0xC0 }
+...
